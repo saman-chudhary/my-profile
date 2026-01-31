@@ -2,7 +2,7 @@
 
 I am a **Senior CMS Developer** with over 5 years of experience architecting high-performance websites.
 
-I specialize in **Custom WordPress Development** and **Shopify E-Commerce**, with a niche focus on building **Bilingual (English/Arabic)** digital experiences for international markets.
+I specialize in **Custom WordPress Development** and **Shopify E-Commerce**, with a strong focus on creating multilingual digital experiences tailored for global markets.
 
 ---
 
